@@ -56,3 +56,11 @@ h1 span{
     box-shadow: 2px 2px 10px rgb(189, 181, 181) inset,
                 -2px -2px 10px rgb(255, 255, 255) inset;
 }
+
+ /***************************
+    Footer section style
+ ***************************/
+
+ footer{
+    height: 100px;
+ }
