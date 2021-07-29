@@ -1,0 +1,58 @@
+/****************************
+            Fonts
+****************************/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;400;500;700&display=swap');
+
+
+/****************************
+        Common styles
+****************************/
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.buttons{
+    background-color: #E76F51;
+}
+
+/****************************
+   Banner Section styles
+****************************/
+.banner{
+    background-color: #264653;
+}
+.banner-paragraph{
+    color: #E0E0E0;
+}
+
+/***************************
+ Featured image section style
+ ***************************/
+.best-bike-title{
+    color: #E76F51;
+
+}
+ .gray-scale-image img{
+    filter: grayscale(100%);
+ }
+
+ /***************************
+  happy client section style
+ ***************************/
+
+
+ .happy-clients-icons i{
+    color: #E77C40;
+ }
+h1 span{
+    color: #E76F51;
+}
+
+ /***************************
+  happy client section style
+ ***************************/
+.specification{
+    background-color: #f8f5f3;
+    box-shadow: 2px 2px 10px rgb(189, 181, 181) inset,
+                -2px -2px 10px rgb(255, 255, 255) inset;
+}
